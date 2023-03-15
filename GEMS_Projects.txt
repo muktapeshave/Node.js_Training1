@@ -1,0 +1,5 @@
+https://github.com/acemilyalcin/sample-node-project
+
+https://www.geeksforgeeks.org/top-7-nodejs-project-ideas-for-beginners/
+
+https://blog.udemy.com/node-js-project-ideas/
